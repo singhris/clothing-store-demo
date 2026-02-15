@@ -1,3 +1,7 @@
 fastapi[standard]
 pydantic
-psycopg
+psycopg[binary]
+python-dotenv
+bcrypt
+python-jose[cryptography]
+python-multipart
